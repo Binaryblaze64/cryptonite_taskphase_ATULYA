@@ -1,0 +1,379 @@
+Message-ID: <1502261746.43.1728576285349@f0e3d3cbc745>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_42_1594379021.1728576285348"
+
+------=_Part_42_1594379021.1728576285348
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>PRACTICING PIPES</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>PRACTICING PIPES</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"PRACTICINGPIPES-Redirectingoutput">Redirecting output</h2=
+>
+<p>Challenge description asks to use output redirection to write <code>PWN<=
+/code> to file <code>COLLEGE</code></p>
+<p>This can be done by:<br><code>echo PWN &gt; COLLEGE</code></p>
+<p>FLAG-<code>pwn.college{8uTmg58URbo6ClnFRLrXgeIbzpW.dRjN1QDL3YjN0czW}</co=
+de></p>
+<h2 id=3D"PRACTICINGPIPES-Redirectingmoreoutput">Redirecting more output</h=
+2>
+<p>Challenge asks to use output redirectiont to write the output of <code>/=
+challenge/run</code> in file <code>myflag</code></p>
+<p>This can be done by, <code>/challenge/run &gt; myflag</code></p>
+<p>The flag is read by <code>cat myflag</code>, which gives the <code>flagp=
+wn.college{0zmklYETCPAxDCnIO62VlOxFFyg.dVjN1QDL3YjN0czW}</code></p>
+<h2 id=3D"PRACTICINGPIPES-Appendingoutput">Appending output</h2>
+<p>output of <code>/challenge/run</code> must be directed to <code>~/the-fl=
+ag</code> in append mode. If it is not in append mode second half of flag w=
+ill overwrite the first half since first half is automatically written to t=
+he file and second half is directed to the file.</p>
+<p>The required command is <code>/challenge/run &gt;&gt; ~/the-flag</code><=
+/p>
+<p><code>cat the-flag</code></p>
+<p>flag-<code>pwn.college{UK7LV4WXxnhsDz_EtT3aUIkMtaq.ddDM5QDL3YjN0czW}</co=
+de></p>
+<h2 id=3D"PRACTICINGPIPES-Redirectingerrors">Redirecting errors</h2>
+<p>Output redirected to <code>myflag</code> like one of the previous challe=
+nges. Errors must be directed to <code>instructions</code>. This can be don=
+e using</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">/challe=
+nge/run &gt; myflag 2&gt; instructions
+</pre>
+</div>
+</div>
+<p><code>cat myflag</code>:<code>pwn.college{EqCm2ZqoC11xfjUlLqquhsp-xp3.dd=
+jN1QDL3YjN0czW}</code></p>
+<h2 id=3D"PRACTICINGPIPES-Redirectinginput">Redirecting input</h2>
+<p>First, output of <code>echo COLLEGE</code> is redirected to the file <co=
+de>PWN</code> using <code>echo COLLEGE &gt; PWN</code></p>
+<p>Then, the file <code>PWN</code> is redirected as input to <code>/challen=
+ge/run</code> using <code>/challenge/run &lt; PWN</code></p>
+<p>FLAG-<code>pwn.college{MXzp8K6r4VK2zTvtiJukYICn0kL.dBzN1QDL3YjN0czW}</co=
+de></p>
+<h2 id=3D"PRACTICINGPIPES-Greppingstoredresults">Grepping stored results</h=
+2>
+<p>Output of <code>/challenge/run</code> is redirected to <code>/tmp/data.t=
+xt</code> using <code>/challenge/run &gt; /tmp/data.txt</code></p>
+<p>The flag is searched using grep by the command <code>grep pwn.college /t=
+mp/data.txt</code> since all flags start with <code>pwn.college</code></p>
+<p>FLAG-<code>pwn.college{82CDQbBYaKCGAwaGf8297kSq_7G.dhTM4QDL3YjN0czW}</co=
+de></p>
+<p><code>[INFO] WELCOME! This challenge makes the following asks of you:</c=
+ode><br><code>[INFO] - the challenge checks for a specific process at the o=
+ther end of stdout : grep</code><br><code>[INFO] - the challenge will outpu=
+t a reward file if all the tests pass : /challenge/.data.txt</code></p>
+<p><code>[HYPE] ONWARDS TO GREATNESS!</code></p>
+<p><code>[INFO] This challenge will perform a bunch of checks.</code><br><c=
+ode>[INFO] If you pass these checks, you will receive the /challenge/.data.=
+txt file.</code></p>
+<p><code>[TEST] You should have redirected my stdout to another process. Ch=
+ecking...</code><br><code>[TEST] Performing checks on that process!</code><=
+/p>
+<p><code>[INFO] The process' executable is /nix/store/xpq4yhadyhazkcsggmqd7=
+rsgvxb3kjy4-gnugrep-3.11/bin/grep.</code><br><code>[INFO] This might be dif=
+ferent than expected because of symbolic links (for example, from /usr/bin/=
+python to /usr/bin/python3 to /usr/bin/python3.8).</code><br><code>[INFO] T=
+o pass the checks, the executable must be grep.</code></p>
+<p><code>[PASS] You have passed the checks on the process on the other end =
+of my stdout!</code><br><code>[PASS] Success! You have satisfied all execut=
+ion requirements.</code><br><code>pwn.college{0W_C27US-KC29yxzcZQ-9Wp4CJE.d=
+lTM4QDL3YjN0czW}</code></p>
+<h2 id=3D"PRACTICINGPIPES-Greppingerrors">Grepping errors</h2>
+<p>Similar to previous challenge but errors must be grepped instead.</p>
+<p>Standard error redirected to standard output first using <code>2&gt;&amp=
+; 1</code></p>
+<p>Therefore the command is,</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">/challe=
+nge/run 2&gt;&amp; 1 | grep pwn.college
+</pre>
+</div>
+</div>
+<p>The flag outputted is:<code>pwn.college{kpH5tI70t8DC93FrTDo270h1fPW.dVDM=
+5QDL3YjN0czW}</code></p>
+<h2 id=3D"PRACTICINGPIPES-Duplicatingpipeddatawithtee">Duplicating piped da=
+ta with tee</h2>
+<p>First, <code>tee</code> is used to intercept between <code>/challenge/pw=
+n</code> and <code>/challenge/college</code> so we can find out what is goi=
+ng on. This is done by the command <code>/challenge/pwn | tee check | /chal=
+lenge/college</code></p>
+<p><code>Usage: /challenge/pwn --secret [SECRET_ARG]</code></p>
+<p><code>SECRET_ARG should be "I7KzRAn1"</code></p>
+<p>Therefore, the correct command to attain the flag is <code>/challenge/pw=
+n --secret IVCKUKeN | /challenge/college</code> which outputs the following=
+,</p>
+<p><code>/challenge/pwn --secret I7KzRAn1 | /challenge/college</code><br><c=
+ode>bash: I7KzRAn1: command not found</code><br><code>Processing...</code><=
+br><code>Correct! Passing secret value to /challenge/college...</code><br><=
+code>Great job! Here is your flag:</code><br><code>pwn.college{I7KzRAn1yt8u=
+SjLcJcJa6dvoxuj.dFjM5QDL3YjN0czW}</code></p>
+<h2 id=3D"PRACTICINGPIPES-Writingtomultipleprograms">Writing to multiple pr=
+ograms</h2>
+<p>Output from <code>/challenge/hack</code> must be piped to the 2 commands=
+ <code>/challenge/the</code> and <code>/challenge/planet</code>.</p>
+<p>Since <code>&gt;(/challenge/the)</code> will give a temporary file which=
+ the command <code>/challenge/the</code> will read from, it can be used to =
+make <code>tee</code> pipe to 2 commands.</p>
+<p>The required command is,</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">/challe=
+nge/hack | tee &gt;(/challenge/the) | /challenge/planet</pre>
+</div>
+</div>
+<p>flag-<code>pwn.college{UTcjjnAZQrmumViVRMx44WTfCj_.dBDO0UDL3YjN0czW}</co=
+de></p>
+<h2 id=3D"PRACTICINGPIPES-Split-pipingstderrandstdout">Split-piping stderr =
+and stdout</h2>
+<p>This was a bit challenging to think of but I eventually found the right =
+answer.</p>
+<p>I first used <code>2&gt;</code> along with <code>&gt;(/challenge/the)</c=
+ode> to pipe stderr to the <code>/challenge/the</code> program</p>
+<p>Then I used the standard <code>|</code> that has been used in the last c=
+ouple challenges to pipe stdout to <code>/challenge/planet</code></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">/challe=
+nge/hack 2&gt; &gt;(/challenge/the) | /challenge/planet
+</pre>
+</div>
+</div>
+<p>This gives the output,</p>
+<p><code>/challenge/hack 2&gt; &gt;(/challenge/the) | /challenge/planet</co=
+de><br><code>Congratulations, you have learned a redirection technique that=
+ even experts</code><br><code>struggle with! Here is your flag:</code><br><=
+code>pwn.college{8SfsR5ePrv1-CKjPWphjSHWn5G1.dFDNwYDL3YjN0czW}</code></p>
+    </div>
+</body>
+</html>
+------=_Part_42_1594379021.1728576285348--
